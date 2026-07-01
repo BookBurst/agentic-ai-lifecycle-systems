@@ -6,7 +6,7 @@ This is the official code repository for the book **"Agentic AI Lifecycle System
 It contains every code blueprint from the book, ready to copy and paste, organized exactly the way the
 book is: **5 lifecycle phases**, each split into the individual **protocols** you read chapter by chapter.
 
-> 📖 *Amazon link: coming soon.*
+> 📖 *Amazon link: https://www.amazon.com/dp/B0H6KZG7NN*
 
 ---
 
